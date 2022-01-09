@@ -2,7 +2,7 @@
 // @name DiscordFakeScopeRemover
 // @description Removes the dumb extra scopes Discord adds underneath the actual scopes at the OAuth2 page
 // @match https://discord.com/oauth2/*
-// @require view-source:https://code.jquery.com/jquery-3.6.0.min.js
+// @require https://code.jquery.com/jquery-3.6.0.min.js
 // @author Sinner
 // @grant GM_addStyle
 // ==/UserScript==
