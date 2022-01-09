@@ -1,7 +1,8 @@
 # DiscordFakeScopeRemover
 
 ### Before and after yes
-![Before]
+![Before](https://krypt0n.eu/res/DiscordFakeScopeRemover/before.png)
+![After](https://krypt0n.eu/res/DiscordFakeScopeRemover/after.png)
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or any other userscript manager.
