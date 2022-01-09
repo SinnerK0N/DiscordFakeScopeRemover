@@ -1,2 +1,5 @@
 # DiscordFakeScopeRemover
-Removes the dumb extra scopes Discord adds underneath the actual scopes at the OAuth2 page
+
+## Installation
+1. Install [Tampermonkey](https://www.tampermonkey.net/) or any other userscript manager.
+2. Open [this link](https://github.com/SinnerK0N/DiscordFakeScopeRemover/raw/master/DCFakeScopeRemove.user.js), your userscript manager should open it's dashboard and from there you just install yes yes
