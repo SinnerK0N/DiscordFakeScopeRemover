@@ -13,13 +13,13 @@
 
     //fuck you to whoever thought this was funny
     setTimeout(function(){
-        $('.scope-J5Vnxx:contains("Bake a cake")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Solve a mystery with Scooby and the gang")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Have an existential crisis")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Read you a bedtime story")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Paint a happy little tree")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Record a new mixtape")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Buy you a nice seafood dinner")').css('display', 'none');
-        $('.scope-J5Vnxx:contains("Microbrew some local kombucha")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Bake a cake")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Solve a mystery with Scooby and the gang")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Have an existential crisis")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Read you a bedtime story")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Paint a happy little tree")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Record a new mixtape")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Buy you a nice seafood dinner")').css('display', 'none');
+        $('.scope-J9cQRk:contains("Microbrew some local kombucha")').css('display', 'none');
     }, 300);
 })();
